@@ -9,6 +9,7 @@ language-babel@2.17.3
 language-ejs@0.2.0
 markdown-preview-plus@2.4.0
 merge-conflicts@1.4.1
+minimap@4.23.2
 pigments@0.26.0
 project-manager@2.9.7
 react@0.15.0
